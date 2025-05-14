@@ -1,0 +1,3 @@
+estou_aprendendo_valores_boleanos = 'sim'
+if estou_aprendendo_valores_boleanos == 'sim':
+    print("Estou aprendendo valores booleanos!")
